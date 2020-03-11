@@ -4,7 +4,7 @@
 Widget::Widget(QWidget *parent)
     : QWidget(parent)
 {
-    qDebug() << "hello world";
+    qDebug() << "Hello world";
 }
 
 Widget::~Widget()
